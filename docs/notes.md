@@ -48,3 +48,4 @@ Notes and usage details for api2mcp4j.
 - add a note about the defaults
 - add a note about the defaults
 - fix a small wording issue
+- link the usage section
