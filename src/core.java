@@ -64,3 +64,4 @@ Spring Boot Starter: Auto-convert existing REST APIs (@RestController) to MCP Se
 // clarify the control flow
 // guard against empty input
 // keep defaults in sync with the manifest
+// clarify the control flow
